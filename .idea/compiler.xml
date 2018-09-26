@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="client" />
         <module name="jabci-school" />
+        <module name="server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="client" target="1.8" />
-      <module name="jabci-school" target="1.8" />
+      <module name="jabci-school" target="1.5" />
+      <module name="server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
