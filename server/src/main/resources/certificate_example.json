@@ -1,0 +1,21 @@
+{
+  "info": {
+    "student_name": "student_name",
+    "student_class": "9b",
+    "certificate_year": "2018"
+  },
+  "grades": [
+    {
+      "subject": "Mathe",
+      "grade": "1-"
+    },
+    {
+      "subject": "Englisch",
+      "grade": "2+"
+    },
+    {
+      "subject": "Deutsch",
+      "grade": "3"
+    }
+  ]
+}
